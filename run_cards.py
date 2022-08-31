@@ -6,7 +6,6 @@ Citation:
 This code was largly adapted from: https://github.com/flatplanet/Intro-To-TKinter-Youtube-Course/blob/master/language.py
 '''
 
-
 def run_cards(words):
         
     root = Tk()
