@@ -1,0 +1,119 @@
+die Feuerwache, -n~|~fire station
+das Gerichtsgebäude, -~|~courthouse
+das Polizeirevier, -e~|~police station
+das Rathaus, -¨ er~|~city/town hall
+der Stadtrand, -¨ er~|~outskirts
+der U-Bahnhof, -¨e /die U-Bahn-Station, -en~|~subway station
+die Unterbringung, -en~|~accommodations
+der Verein, -e~|~association; club
+der Vorort, -e~|~suburb
+das (Wohn)viertel, -/die (Wohn)gegend, -en~|~neighborhood
+der Wolkenkratzer, -~|~skyscraper
+der Zeitungskiosk, -e~|~newsstand
+die Allee, -n~|~avenue
+die Ampel, -n~|~traffic light
+der Bürgersteig, -e~|~sidewalk
+die Ecke, -n~|~corner
+der Kreisverkehr, -e~|~traffic circle
+die Kreuzung, -en~|~intersection
+der öffentliche Personennahverkehr (ÖPNV)/die öffentlichen Verkehrsmittel~|~public transportation
+die Reklametafel, -n~|~billboard
+die Richtung, -en~|~direction
+die (Fahr)spur, -en~|~lane
+das Verkehrsschild, -er/das Verkehrszeichen, -~|~traffic sign
+der (Verkehrs)stau, -s~|~(traffic) jam
+der Zebrastreifen, -~|~crosswalk
+aussteigen~|~to get out (car); to get off (bus, train)
+einsteigen~|~to get in (car); to get on (bus, train)
+eine Wegbeschreibung geben~|~to give directions
+liegen~|~to be located
+überqueren~|~to cross (a road, river, ocean)
+sich verlaufen/sich verfahren~|~to get/to be lost
+der Angeber, -/die Angeberin, -nen~|~show-off
+der Anhänger, -/die Anhängerin, -nen~|~fan
+der Ausländer, -/die Ausländerin, -nen~|~foreigner
+der Bürger, -/die Bürgerin, -nen~|~citizen
+der/die Fremde, -n~|~stranger
+der Fußgänger, -/die Fußgängerin, -nen~|~pedestrian
+der Mieter, -/die Mieterin, -nen~|~tenant
+der Mitbewohner, -/die Mitbewohnerin, -nen~|~housemate, roommate
+der Nachbar, -n/die Nachbarin, -nen~|~neighbor
+der Polizeibeamte, -n/die Polizeibeamtin, -nen~|~police officer
+der Zimmergenosse, -n/die Zimmergenossin, -nen~|~roommate
+das Nachtleben~|~nightlife
+die Stadtplanung, -en~|~city/town planning
+sich amüsieren~|~to have fun
+(an)halten/stoppen~|~to stop
+plaudern~|~to chat
+umziehen~|~to move
+verbessern~|~to improve
+vorbeigehen~|~to walk past
+wenden~|~to turn (around)
+die Freiheitsstrafe, -n~|~prison sentence
+der Gesetzesverstoß, -¨e~|~breach of law
+der Konflikt, -e~|~conflict
+der Pflegefall, -¨e~|~nursing case
+die Unterstellung, -en~|~allegation
+das Verbrechen, -~|~crime
+das Verhör, -e~|~interrogation
+sich beschweren (über)~|~to complain (about)
+im Stich lassen~|~to abandon (someone)
+zwingen (zu)~|~to force (someone)
+strafbar~|~punishable
+gefährlich~|~dangerous
+laut~|~noisy
+lebhaft~|~lively
+leer~|~empty
+persönlich~|~personal
+privat~|~private
+sicher~|~safe
+überfüllt~|~crowded
+unerwartet~|~unexpected
+voll~|~full
+der Ausreiseantrag, -¨e~|~exit permit
+die DDR (Deutsche Demokratische Republik)~|~GDR (German Democratic Republic)
+die Erpressung, -en~|~extortion; blackmail
+die Freiheit, -en~|~freedom
+der Gewissenskonflikt, -e~|~moral conflict
+die Karriereleiter, -n~|~career ladder
+landesverräterische Nachrichtenübermittlung~|~traitorous information transmission
+die Meisterschaft, -en~|~championship
+die Privatsphäre, -n~|~privacy
+die Republikflucht~|~defection from East to West Germany
+der Sachverhalt, -e~|~fact
+die Stasi (Staatssicherheit)~|~secret police (former GDR)
+die Vergünstigung, -en~|~preferential treatment
+der Verräter, -~|~traitor
+die Zerreißprobe, -n~|~(emotional) ordeal
+ausschneiden~|~to clip
+es ernst meinen~|~to be serious
+j-m etwas ersparen~|~to spare someone something
+j-m hinterhersteigen~|~chase after someone
+schmackhaft~|~flavorful
+die Gemeinde, -n~|~community
+die Harmonie, -n~|~harmony
+der Imbiss, -e~|~snack
+die Isolation, -en~|~isolation
+die Regierung, -en~|~government
+die Sprachkenntnisse (pl.)~|~linguistic proficiency
+die Staatsangehörigkeit, -en~|~nationality
+die (Wieder)vereinigung, -en~|~(re)unification
+die Vielfalt~|~variety
+(sich) anpassen~|~to adjust to
+austauschen~|~to exchange
+behandeln~|~to deal with
+benachteiligen~|~to discriminate
+gewähren~|~to grant
+integrieren~|~to integrate
+preisen~|~to praise
+das Schicksal, -e~|~fate
+Sitten und Gebräuche~|~manners and customs
+(an)zweifeln~|~to doubt
+betreiben~|~to operate
+sich entpuppen~|~to turn out to be
+locker lassen~|~to give up
+(einer Sache) nachgehen~|~to go into the matter
+(sich) verbergen~|~to hide
+augenscheinlich~|~obvious
+eifrig~|~eager
+volkstümlich~|~folksy
