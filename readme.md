@@ -1,3 +1,4 @@
+### NOTE (9/28/2022): I am running to class and have not yet updated this page after the most recent push 
 ### Inspiration:
 
 I am taking a language in college. In order to study, flash cards are SUPER helpful. However, it is painful to make them (especially with large word sets). I wrote this script to automate the process. 
